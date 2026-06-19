@@ -267,8 +267,8 @@ export default function Hero({ isDark }) {
           >
             {[
               { value: '2+', label: 'Years Coding' },
-              { value: '100+', label: 'LeetCode Solved' },
-              { value: '5+', label: 'Projects Built' },
+              { value: '50+', label: 'LeetCode Solved' },
+              { value: '2+', label: 'Projects Built' },
               { value: '2', label: 'Internships' },
             ].map(({ value, label }) => (
               <div key={label} className="relative">

@@ -23,14 +23,14 @@ const CONTACT_INFO = [
     icon: FiGithub,
     label: 'GitHub',
     value: 'github.com/anubhavpoddar',
-    href: 'https://github.com/anubhavpoddar',
+    href: 'https://github.com/Anubhav-950',
     color: '#FFD93D',
   },
   {
     icon: FiLinkedin,
     label: 'LinkedIn',
     value: 'linkedin.com/in/anubhavpoddar',
-    href: 'https://linkedin.com/in/anubhavpoddar',
+    href: 'https://www.linkedin.com/in/anubhav-poddar-8a6945290/',
     color: '#FF6B6B',
   },
 ]
