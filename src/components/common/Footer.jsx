@@ -13,8 +13,8 @@ export default function Footer({ isDark }) {
           </div>
           <div className="flex items-center gap-6">
             {[
-              { icon: FiGithub, href: 'https://github.com/anubhavpoddar', label: 'GitHub' },
-              { icon: FiLinkedin, href: 'https://linkedin.com/in/anubhavpoddar', label: 'LinkedIn' },
+              { icon: FiGithub, href: 'https://github.com/Anubhav-950', label: 'GitHub' },
+              { icon: FiLinkedin, href: 'https://www.linkedin.com/in/anubhav-poddar-8a6945290/', label: 'LinkedIn' },
               { icon: FiMail, href: 'mailto:anubhavpoddar1@gmail.com', label: 'Email' },
             ].map(({ icon: Icon, href, label }) => (
               <a
