@@ -242,8 +242,8 @@ export default function Hero({ isDark }) {
             </button>
             <div className="flex items-center gap-3 ml-2">
               {[
-                { icon: FiGithub, href: 'https://github.com/anubhavpoddar' },
-                { icon: FiLinkedin, href: 'https://linkedin.com/in/anubhavpoddar' },
+                { icon: FiGithub, href: '' },
+                { icon: FiLinkedin, href: 'https://www.linkedin.com/in/anubhav-poddar-8a6945290/' },
               ].map(({ icon: Icon, href }) => (
                 <a
                   key={href}
