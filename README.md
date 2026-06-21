@@ -202,10 +202,4 @@ npm install @emailjs/browser
 
 ---
 
-## 📄 License
-
-MIT — feel free to use this as a template for your own portfolio.
-
----
-
-Built with 💚 by Anubhav Poddar
+Built by Anubhav Poddar
